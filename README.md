@@ -38,4 +38,4 @@ baseline system.
 
 ### Note to Reviewers
 
-If you want to look at data files, please note that the file will open in *the same window* as the directory listing. You need to scroll down the page past all filenames to see the contents of the file.
+If you want to look at data files, please note that the file will open in **the same window** as the directory listing. You need to scroll down the page past all filenames to see the contents of the file.
