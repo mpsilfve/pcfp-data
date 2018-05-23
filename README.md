@@ -35,3 +35,7 @@ The directory `outputs` contains the outputs of the models presented in the EMNL
 contains outputs for input file `LAN.um.POS.n.txt`. The files `LAN.um.POS.top.res.txt` correspond to the test file 
 `LAN.um.POS.top.10000.txt`. The files `LAN.um.POS.n.baseline.res.txt` and `LAN.um.POS.top.baseline.res.txt` are analogous files for the 
 baseline system.
+
+### Note to Reviewers
+
+If you want to look at data files, please note that the text file will open in the same window as the directory listing. You need to scroll down the page past all file names to see the contents of the file.
