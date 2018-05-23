@@ -31,7 +31,7 @@ the most frequent word forms are shown. The task is to fill in the missing forms
 
 ### System outputs
 
-The directory `outputs` contains the outputs of the models presented in the EMNLP paper. Each file `LAN.um.POS.n.vote.res`
+The directory `outputs` contains the outputs of the models presented in the EMNLP paper. Each file `LAN.um.POS.n.vote.res.txt`
 contains outputs for input file `LAN.um.POS.n.txt`. The files `LAN.um.POS.top.res.txt` correspond to the test file 
-`LAN.um.POS.top.10000`. The files `LAN.um.POS.n.baseline.res.txt` and `LAN.um.POS.top.baseline.res.txt` are analogous files for the 
+`LAN.um.POS.top.10000.txt`. The files `LAN.um.POS.n.baseline.res.txt` and `LAN.um.POS.top.baseline.res.txt` are analogous files for the 
 baseline system.
