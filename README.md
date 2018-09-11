@@ -10,8 +10,9 @@ try    INF                       try     INF
 tried  PAST                      tried   PAST
 ```
 
-These data sets were used in the experiments for the paper *An Encoder-Decoder Approach to the Paradigm Cell Filling Problem* 
-which is currently in review for EMNLP 2018.
+These data sets were used in the experiments for the paper 
+
+Miikka Silfverberg and Mans Huldén. *An Encoder-Decoder Approach to the Paradigm Cell Filling Problem*. EMNLP 2018.
 
 ### Training and test data
 
@@ -36,6 +37,3 @@ contains outputs for input file `LAN.um.POS.n.txt`. The files `LAN.um.POS.top.re
 `LAN.um.POS.top.10000.txt`. The files `LAN.um.POS.n.baseline.res.txt` and `LAN.um.POS.top.baseline.res.txt` are analogous files for the 
 baseline system.
 
-### Note to Reviewers
-
-If you want to look at data files, please note that the file will open in **the same window** as the directory listing. You need to scroll down the page past all filenames to see the contents of the file.
