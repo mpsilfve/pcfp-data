@@ -29,7 +29,7 @@ walking      PCPLE;PRES
 We experiment with three settings.
 
 * n > 1 word forms are given in each paradigm.  
-* Exactly n = 1 word forms is given in each paradigm.  
+* Exactly n = 1 word form is given in each paradigm.  
 * The 10,000 most frequent forms (according to Wikipedia frequency) are given and the remaining forms in their inflection tables are unknown.
 
 Note, that in the last setting, inflection tables may contain varying
