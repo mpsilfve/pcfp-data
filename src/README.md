@@ -15,7 +15,7 @@ walk         PRES;NON3SG
 walking      PCPLE;PRES
 ```
 
-and the objective is to fill in the missing forms in all the paradigms
+and the objective is to fill in the missing forms in all the tables
 
 ```
 walk         V;INF
