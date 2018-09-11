@@ -4,7 +4,7 @@ This is deep learning code for running experiments he Paradigm Cell Filling Prob
 
 Miikka Silfverberg and Mans Hulden. 2018. *An Encoder-Decoder Approach to the Paradigm Cell Filling Problem*. EMNLP.
 
-In the PCFP, you are given a number of partial inflection tables. For example,
+In PCFP, you are given a number of partial inflection tables. For example,
 
 ```
 walk         V;INF
