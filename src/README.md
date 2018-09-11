@@ -1,6 +1,6 @@
 ### Introduction
 
-This is deep learning code for running experiments he Paradigm Cell Filling Problem (PCFP). The code is meant for running the experiments in the paper
+This is deep learning code for running experiments the Paradigm Cell Filling Problem (PCFP). The code is meant for running the experiments in the paper
 
 Miikka Silfverberg and Mans Hulden. 2018. *An Encoder-Decoder Approach to the Paradigm Cell Filling Problem*. EMNLP.
 
