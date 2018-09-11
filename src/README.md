@@ -1,4 +1,4 @@
-=== Introduction
+### Introduction
 
 This is deep learning code for running experiments he Paradigm Cell Filling Problem (PCFP). The code is meant for running the experiments in the paper
 
@@ -47,7 +47,7 @@ You should use
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when the top 10,000 models are given in each table.
    * `train_malouf.py` and `test_malouf.py` for training and testing the baseline models.
 
-=== Training Models
+### Training Models
 
 The `train_XYZ.py` scripts are used for training models. The usage is the following
 
@@ -61,7 +61,7 @@ The `test_XYZ.py` scripts are used for testing models. The usage is the followin
 python3 test_XYZ.py input_data_file output_model_file > output_data_file
 ``` 
 
-=== Voting
+### Voting
 
 Given 10 output files `somedata.output.1`, ..., `somedata.output.10`, you can perform voting by
 
