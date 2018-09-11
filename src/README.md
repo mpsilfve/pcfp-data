@@ -15,7 +15,7 @@ walk         PRES;NON3SG
 walking      PCPLE;PRES
 ```
 
-and the objective is to fill in the missing forms in all the paradigms
+and the objective is to fill in the missing forms in all the tables
 
 ```
 walk         V;INF
@@ -29,7 +29,7 @@ walking      PCPLE;PRES
 We experiment with three settings.
 
 * n > 1 word forms are given in each paradigm.  
-* Exactly n = 1 word forms is given in each paradigm.  
+* Exactly n = 1 word form is given in each paradigm.  
 * The 10,000 most frequent forms (according to Wikipedia frequency) are given and the remaining forms in their inflection tables are unknown.
 
 Note, that in the last setting, inflection tables may contain varying
@@ -41,14 +41,18 @@ Additionally, we compare against the model presented in
 
 Robert Malouf. 2016. Generating Morphological Paradigms with Recurrent Neural Networks. San Diego Linguistic Papers.
 
+### Requirements
+
+You need Python 3 and DyNet. This code has been tested on DyNet version 2.0
+
+### Training and Testing Models
+
 You should use 
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when n > 1 models are given in each table.
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when n = 1 models are given in each table.
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when the top 10,000 models are given in each table.
-   * `train_malouf.py` and `test_malouf.py` for training and testing the baseline models.
-
-### Training Models
-
+   * `train_malouf.py` and `test_malouf.py` for training and testing Malouf (2017) models.
+   
 The `train_XYZ.py` scripts are used for training models. The usage is the following
 
 ```
@@ -58,7 +62,7 @@ python3 train_XYZ.py input_data_file output_model_file
 The `test_XYZ.py` scripts are used for testing models. The usage is the following
 
 ```
-python3 test_XYZ.py input_data_file output_model_file > output_data_file
+python3 test_XYZ.py input_data_file model_file > output_data_file
 ``` 
 
 ### Voting

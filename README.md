@@ -37,3 +37,6 @@ contains outputs for input file `LAN.um.POS.n.txt`. The files `LAN.um.POS.top.re
 `LAN.um.POS.top.10000.txt`. The files `LAN.um.POS.n.baseline.res.txt` and `LAN.um.POS.top.baseline.res.txt` are analogous files for the 
 baseline system.
 
+### Code
+
+The `src` directory contains code and documentation for running the epxeriments in Silfverberg and Hulden (2018).
