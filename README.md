@@ -39,4 +39,4 @@ baseline system.
 
 ### Code
 
-The `src` directory contains code and documentation for running the epxeriments in Silfverberg and Hulden (2018).
+The `src` directory contains code and documentation for running the experiments in Silfverberg and Hulden (2018).
