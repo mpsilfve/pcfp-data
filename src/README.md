@@ -51,7 +51,7 @@ You should use
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when n > 1 models are given in each table.
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when n = 1 models are given in each table.
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when the top 10,000 models are given in each table.
-   * `train_malouf.py` and `test_malouf.py` for training and testing Malouf (2017) models.
+   * `train_malouf.py` and `test_malouf.py` for training and testing Malouf (2016) models.
    
 The `train_XYZ.py` scripts are used for training models. The usage is the following
 
