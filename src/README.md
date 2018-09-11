@@ -58,7 +58,7 @@ python3 train_XYZ.py input_data_file output_model_file
 The `test_XYZ.py` scripts are used for testing models. The usage is the following
 
 ```
-python3 test_XYZ.py input_data_file output_model_file > output_data_file
+python3 test_XYZ.py input_data_file model_file > output_data_file
 ``` 
 
 ### Voting
