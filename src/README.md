@@ -39,7 +39,7 @@ perhaps only one of the forms is frequent and the rest are infrequent.
 
 Additionally, we compare against the model presented in 
 
-Robert Malouf. 2017. Generating Morphological Paradigms with Recurrent Neural Networks. SCiL.
+Robert Malouf. 2016. Generating Morphological Paradigms with Recurrent Neural Networks. San Diego Linguistic Papers.
 
 You should use 
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when n > 1 models are given in each table.
