@@ -39,6 +39,7 @@ perhaps only one of the forms is frequent and the rest are infrequent.
 
 Additionally, we compare against the model presented in 
 
+Robert Malouf. 2017. Abstractive morphological learning with a recurrent neural network. Morphology. 
 Robert Malouf. 2016. Generating Morphological Paradigms with Recurrent Neural Networks. San Diego Linguistic Papers.
 
 ### Requirements
