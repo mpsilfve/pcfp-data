@@ -41,14 +41,18 @@ Additionally, we compare against the model presented in
 
 Robert Malouf. 2017. Generating Morphological Paradigms with Recurrent Neural Networks. SCiL.
 
+### Requirements
+
+You need Python 3 and DyNet. This code has been tested on DyNet version 2.0
+
+### Training and Testing Models
+
 You should use 
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when n > 1 models are given in each table.
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when n = 1 models are given in each table.
    * `train_n_gt_1.py` and `test_n_gt_1.py` for training and testing models when the top 10,000 models are given in each table.
    * `train_malouf.py` and `test_malouf.py` for training and testing Malouf (2017) models.
-
-### Training Models
-
+   
 The `train_XYZ.py` scripts are used for training models. The usage is the following
 
 ```
