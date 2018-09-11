@@ -12,7 +12,7 @@ tried  PAST                      tried   PAST
 
 These data sets were used in the experiments for the paper 
 
-Miikka Silfverberg and Mans Huldén. *An Encoder-Decoder Approach to the Paradigm Cell Filling Problem*. EMNLP 2018.
+Miikka Silfverberg and Mans Hulden. *An Encoder-Decoder Approach to the Paradigm Cell Filling Problem*. EMNLP 2018.
 
 ### Training and test data
 
