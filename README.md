@@ -1,6 +1,6 @@
 # pcfp-data
 
-This repository contains data sets for experimentation on the paradigm cell-filling task (PCFP) where the task is to fill 
+This repository contains datasets for experimentation on the paradigm cell-filling task (PCFP) where the task is to fill 
 in the missing forms in a set of morphological inflection tables. For example,
 
 ```
@@ -10,13 +10,13 @@ try    INF                       try     INF
 tried  PAST                      tried   PAST
 ```
 
-These data sets were used in the experiments for the paper 
+These datasets were used in the experiments for the paper 
 
 Miikka Silfverberg and Mans Hulden. *An Encoder-Decoder Approach to the Paradigm Cell Filling Problem*. EMNLP 2018.
 
 ### Training and test data
 
-The directory `data` contains inflection tables for eight different languages: Finnish, French, Georgian, German, Latin,
+The directory `data` contains inflection tables for eight languages: Finnish, French, Georgian, German, Latin,
 Latvian, Spanish and Turkish. These were created based on the [Unimorph](http://unimorph.org/) data sets for each language.
 Originally, the inflection tables have been crawled from Wiktionary.
 
